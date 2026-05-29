@@ -12,7 +12,8 @@ The game includes 20 levels, upgrade mechanics, directional shooting controls, a
 
 ### Main Menu
 
-<img width="1013" height="467" alt="Menu2" src="https://github.com/user-attachments/assets/f45e0f0f-61d4-416a-ac9c-bd1cf02ce324" />
+<img width="1471" height="749" alt="Menu" src="https://github.com/user-attachments/assets/bdb88f4f-d47b-4f2e-9b7d-1861621fba3c" />
+
 
 
 
