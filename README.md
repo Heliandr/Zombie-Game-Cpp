@@ -12,9 +12,11 @@ The game includes 20 levels, upgrade mechanics, directional shooting controls, a
 
 ### Main Menu
 
-![Menu](images/menu.png)
+<img width="1477" height="749" alt="Menu" src="https://github.com/user-attachments/assets/5a4582b7-ef4e-42cb-8d7f-1d3a6d23c4d1" />
+
 
 ### In-Game Environment
+<img width="1475" height="750" alt="GamePlayLevel2" src="https://github.com/user-attachments/assets/1b09c4fe-38a1-48bf-87b7-cd6c898d9f57" />
 
 
 ## Features
@@ -30,7 +32,8 @@ The game includes 20 levels, upgrade mechanics, directional shooting controls, a
 
 ## Controls
 
-help.png
+<img width="1477" height="748" alt="Help" src="https://github.com/user-attachments/assets/4ee3d231-608e-42f3-9704-2ce258904424" />
+
 
 ## Technical Notes
 
